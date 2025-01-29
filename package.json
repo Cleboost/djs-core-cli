@@ -1,0 +1,9 @@
+{
+  "name": "@djs-core/cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Cleboost",
+  "license": "ISC"
+}
